@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/supersigns.github.io/static/css/main.2bb800de.css",
-    "main.js": "/supersigns.github.io/static/js/main.48ed483b.js",
+    "main.js": "/supersigns.github.io/static/js/main.b0787897.js",
     "static/js/453.7c8eef5b.chunk.js": "/supersigns.github.io/static/js/453.7c8eef5b.chunk.js",
     "index.html": "/supersigns.github.io/index.html",
     "main.2bb800de.css.map": "/supersigns.github.io/static/css/main.2bb800de.css.map",
-    "main.48ed483b.js.map": "/supersigns.github.io/static/js/main.48ed483b.js.map",
+    "main.b0787897.js.map": "/supersigns.github.io/static/js/main.b0787897.js.map",
     "453.7c8eef5b.chunk.js.map": "/supersigns.github.io/static/js/453.7c8eef5b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2bb800de.css",
-    "static/js/main.48ed483b.js"
+    "static/js/main.b0787897.js"
   ]
 }
